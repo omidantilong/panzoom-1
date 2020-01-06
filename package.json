@@ -88,7 +88,7 @@
     "style-loader": "^1.0.0",
     "ts-loader": "^6.0.4",
     "typedoc": "^0.15.0",
-    "typedoc-plugin-markdown": "^2.1.1",
+    "typedoc-plugin-markdown": "^2.2.16",
     "typescript": "^3.5.3",
     "uglify-js": "^3.6.0",
     "webpack": "^4.39.2",
